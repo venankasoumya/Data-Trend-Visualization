@@ -1,0 +1,6 @@
+streamlit
+python
+pandas
+numpy
+plotly
+input datasets= Csv,excel
